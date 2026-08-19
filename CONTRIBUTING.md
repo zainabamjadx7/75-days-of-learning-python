@@ -315,4 +315,5 @@ Let's learn Python together! 🐍✨
 
 **Happy Contributing!** 🚀
 
-Last Updated: August 2024
+## Author
+**Zainab Amjad**
